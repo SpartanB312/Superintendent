@@ -1,2 +1,2 @@
 # SpartanHUD
-A halo fan fabric mod for minecraft.
+A halo fan made fabric mod for minecraft.
