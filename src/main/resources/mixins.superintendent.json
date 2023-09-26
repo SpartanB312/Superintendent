@@ -1,0 +1,13 @@
+{
+  "required": false,
+  "compatibilityLevel": "JAVA_8",
+  "package": "net.spartanb312.superintendent.mixin",
+  "refmap": "mixins.superintendent.refmap.json",
+  "mixins": [
+    "MixinMinecraft"
+  ],
+  "client": [
+    "MixinEntityRenderer",
+    "MixinGuiIngame"
+  ]
+}

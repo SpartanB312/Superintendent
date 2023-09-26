@@ -1,2 +1,2 @@
-# SpartanHUD
-A halo fan made fabric mod for minecraft.
+# Superintendent
+A Halo HUD mod
